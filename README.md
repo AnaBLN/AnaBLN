@@ -1,4 +1,4 @@
-### Hi everyone, I´m Ana 👋
+### Hi everyone, I'm Ana 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=AnaBLN.AnaBLN)
 <br>
 *Software Engineering student at [Escuela Politécnica Nacional](https://www.epn.edu.ec)* 🇪🇨
